@@ -1,0 +1,64 @@
+
+th {
+    font-size: x-small;
+    color: white;
+}
+#abc {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+}
+#abc1 {
+    background-color: rgb(21, 21, 102);
+}
+#abc2 {
+    background-color: purple;
+} 
+.abc3 {
+     background-color: black;
+     color: white;
+     font-size: xx-small;
+}
+div {
+    background-color: black;
+    width: 380px;
+    margin-left: 40px;
+}
+td {
+    color: white;
+}
+td {
+    font-size: x-small;
+    max-block-size: 7px;
+    text-align: center;
+}
+
+.span {
+     vertical-align: 08px;
+     margin-left: -07px;
+     font-size: 04px;
+}
+#span {
+     vertical-align: 08px;
+     margin-left: -5.4px;
+     font-size: 04px;
+     text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
